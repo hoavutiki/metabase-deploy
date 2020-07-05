@@ -1,6 +1,6 @@
 {
   "name": "Metabase",
-  "description": "Metabase report server",
+  "description": "Metabase report server, using hoa buildpack",
   "keywords": [
     "business intelligence",
     "analytics",
